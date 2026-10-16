@@ -43,7 +43,7 @@ function App() {
         <About data ={data} />
         <Skills skills={data.skills}/>
         <Projects projects={data.projects}/>
-        <Education education={data.eaducation}/>
+        <Education education={data.education}/>
         <Contact email={data.email}
         socials={data.socials}/>
       </main>
